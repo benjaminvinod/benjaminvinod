@@ -1,6 +1,4 @@
-<!-- ====================== BANNER (OPTIONAL) ====================== -->
-<!-- Upload banner.png in this repo and uncomment below line -->
-<!-- ![Banner](banner.png) -->
+![Banner](Benjamin.png)
 
 <h1 align="center">Hi 👋, I'm Benjamin Mammen Vinod</h1>
 <h3 align="center">Backend Developer | Generative AI Enthusiast | Computer Engineering Student</h3>
