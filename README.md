@@ -54,49 +54,28 @@ LLMs • RAG Pipelines • Generative AI Concepts • Machine Learning Fundament
 
 ### 🧠 Generative AI Intern – Zensar Technologies (July 2025 – Present)
 
-- Built a full-stack AI interview automation platform  
-- Designed adaptive interview workflows with NLP-based resume analysis  
-- Integrated LLM-powered question generation using AWS Bedrock  
-- Developed backend services using Python & MySQL  
-- Built analytics dashboards for user and admin insights  
-- Deployed and maintained services in a cloud-based environment  
+- Engineered a Retrieval-Augmented Generation pipeline using AWS Bedrock and ChromaDB to query a vectorized question bank of 2,500 technical questions.  
+- Reduced retrieval latency to under one second through optimized embedding and vector search configuration. 
+- Designed an adaptive interview engine that dynamically scales difficulty tiers (Easy, Intermediate, Hard) based on NLP-driven scoring.  
+- Created a 5-tab analytics suite with skill diagnostics, automated take-home assignments, and historical performance tracking for 50 internal testers.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 AI-Powered FinTech Investment Simulator
-- Built using FastAPI and MongoDB  
-- Designed a real-time investment simulation engine  
-- Implemented a local RAG pipeline using a Llama-based model  
-- Developed a deterministic pricing engine for mutual fund simulations  
+### 🔹 Spatial Escape | Browser-Based AR Puzzle Game
+- Developed a browser-based AR puzzle game using React, TypeScript, JavaScript, CSS, and real-time camera input with interactive UI overlays.
+- Leveraged MediaPipe computer vision models to detect environmental cues such as shadows, bright objects, furniture, plants, and faces.  
+- Implemented Three.js gyroscope-driven spatial overlays with obstacle alerts and animated navigation indicators.  
+- Designed core game logic for timed riddles, scoring, hint penalties, multi-stage progression, and end-game analytics.
 
 ---
 
-### 🔹 Gamified Habit Tracker
-- Java Swing–based desktop application  
-- Implemented XP, streak, and reward mechanics  
-- Integrated MySQL using JDBC for persistent tracking  
-
----
-
-### 🔹 Turf Booking System (MERN Stack)
-- Developed real-time availability validation  
-- Implemented secure booking confirmation workflows  
-- Built robust backend handling for reservation management  
-
----
-
-### 🔹 Olympic Medal Prediction & Analysis
-- Flask + MongoDB web application  
-- Built CSV ingestion pipeline  
-- Applied classification and clustering techniques for performance analysis  
-
----
-
-### 🔹 Football Match Prediction
-- Implemented supervised ML-based prediction pipeline  
-- Evaluated model performance using accuracy and confusion matrices  
+### 🔹 BenStocks | Real-Time Financial Trading Simulator
+- Architected a full-stack financial simulator using Python, FastAPI, React, and MongoDB with real-time WebSocket price streaming. 
+- Utilized the yfinance API and implemented a SHA-256 hashing algorithm to generate stateless, deterministic daily Mutual Fund NAVs.
+- Created a Python technical analysis engine computing RSI, MACD, and Bollinger Bands alongside a tax-loss harvesting optimizer.
+- Embedded a Llama 3.1 AI portfolio mentor and a custom heuristic engine for financial news sentiment analysis.   
 
 ---
 
