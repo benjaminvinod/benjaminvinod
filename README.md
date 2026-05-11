@@ -1,123 +1,180 @@
-<p align="center">
-  <img src="Benjamin.png" alt="Banner" />
-</p>
-
-<h1 align="center">I'm Benjamin Mammen Vinod</h1>
-<h3 align="center">Backend Engineer | LLM & RAG Systems | Cloud</h3>
+<h1 align="center">Benjamin Mammen Vinod</h1>
+<h3 align="center">AI Systems Engineer • RAG • Agents • Real-Time AI</h3>
 
 <p align="center">
-  <a href="mailto:benjaminvinod99@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/benjamin-mammen-vinod-424973255/">💼 LinkedIn</a> •
-  <a href="https://github.com/benjaminvinod">💻 GitHub</a>
+  Building intelligent backend systems across LLMs, speech pipelines, vision-language workflows, and real-time inference.
+</p>
+
+<p align="center">
+  <a href="mailto:benjaminvinod99@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/benjaminvinod/">LinkedIn</a> •
+  <a href="https://github.com/benjaminvinod">GitHub</a>
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-🎓 B.Tech Computer Engineering student at MIT World Peace University (CGPA: 7.03)  
-💻 Backend engineer experienced in building scalable APIs using FastAPI & Flask  
-🧠 Focused on LLM-powered systems, RAG pipelines, and intelligent backend workflows  
-☁️ Hands-on experience with AWS and Google Cloud  
-📍 Pune, India  
+I'm a Computer Science student at MIT-WPU focused on building AI systems that combine backend engineering with modern generative AI infrastructure.
 
-I build backend systems that integrate software engineering fundamentals with AI-driven intelligence.
+My work currently revolves around:
 
----
+- Retrieval-Augmented Generation (RAG)
+- AI agents and orchestration workflows
+- Real-time speech and audio processing
+- Vision-language systems
+- Streaming and inference pipelines
+- FastAPI and backend architecture
+- Local and cloud-based LLM deployments
 
-## 🛠 Tech Stack
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-### ⚙️ Backend & Frameworks
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
-
-### 🗄 Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🤖 AI & ML
-LLMs • RAG Pipelines • Generative AI Concepts • Machine Learning Fundamentals
-
-### ☁️ Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+I enjoy building systems that move beyond demos into practical, real-time engineering problems.
 
 ---
 
-## 💼 Experience
+## Currently Building
 
-### 🧠 Generative AI Intern – Zensar Technologies (July 2025 – Present)
-
-- Engineered a Retrieval-Augmented Generation pipeline using AWS Bedrock and ChromaDB to query a vectorized question bank of 2,500 technical questions.  
-- Reduced retrieval latency to under one second through optimized embedding and vector search configuration. 
-- Designed an adaptive interview engine that dynamically scales difficulty tiers (Easy, Intermediate, Hard) based on NLP-driven scoring.  
-- Created a 5-tab analytics suite with skill diagnostics, automated take-home assignments, and historical performance tracking for 50 internal testers.
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 Spatial Escape | Browser-Based AR Puzzle Game
-- Developed a browser-based AR puzzle game using React, TypeScript, JavaScript, CSS, and real-time camera input with interactive UI overlays.
-- Leveraged MediaPipe computer vision models to detect environmental cues such as shadows, bright objects, furniture, plants, and faces.  
-- Implemented Three.js gyroscope-driven spatial overlays with obstacle alerts and animated navigation indicators.  
-- Designed core game logic for timed riddles, scoring, hint penalties, multi-stage progression, and end-game analytics.
+- Real-time SIP/RTP speech intelligence pipelines
+- Agentic AI workflows using LangGraph
+- Voice + transcription + semantic analysis systems
+- Vision-language surveillance and retrieval systems
+- AI-powered financial simulation platforms
 
 ---
 
-### 🔹 BenStocks | Real-Time Financial Trading Simulator
-- Architected a full-stack financial simulator using Python, FastAPI, React, and MongoDB with real-time WebSocket price streaming. 
-- Utilized the yfinance API and implemented a SHA-256 hashing algorithm to generate stateless, deterministic daily Mutual Fund NAVs.
-- Created a Python technical analysis engine computing RSI, MACD, and Bollinger Bands alongside a tax-loss harvesting optimizer.
-- Embedded a Llama 3.1 AI portfolio mentor and a custom heuristic engine for financial news sentiment analysis.   
+## Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,java,html,css,sql" />
+</p>
+
+### Backend & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,react" />
+</p>
+
+### AI / ML
+- LLMs
+- RAG Pipelines
+- LangChain
+- LangGraph
+- Hugging Face
+- AWS Bedrock
+- Embeddings
+- Prompt Engineering
+- Vision-Language Models
+- Speech Processing
+- Audio DSP
+- AI Agents
+
+### Databases & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,aws,gcp" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,npm" />
+</p>
 
 ---
 
-## 📄 Research
+# Featured Projects
 
-### Credit Card Encryption and Decryption (April 2025)
+## Real-Time SIP Audio Denoising & VAD Pipeline
 
-- Analyzed AES, RSA, and ECC encryption techniques  
-- Studied SSL/TLS, HTTPS, and tokenization mechanisms  
-- Examined PCI DSS compliance and post-quantum cryptography considerations  
+Real-time telephony speech processing system built using Python, Flask, Socket.IO, and RTP streaming.
 
----
+### Highlights
+- Low-latency RTP packet handling and jitter buffering
+- RNNoise denoising + WebRTC VAD integration
+- Faster-Whisper transcription pipeline
+- Local Llama 3.1 inference using Ollama
+- Real-time summarization and sentiment analysis
+- Sub-10ms frame-level DSP processing
 
-## 🏆 Certifications
-
-- Microsoft – Introduction to Microsoft 365 Copilot  
-- IBM – AI Workflow: Enterprise Model Deployment  
-- Google Cloud Skill Badges (App Dev, Networking, ML & AI, Load Balancing, Secure Network)  
-- SkillSoft – Introduction to Generative AI  
-
----
-
-## 📈 GitHub Stats
-
-![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjaminvinod&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminvinod&layout=compact&theme=tokyonight)
+### Stack
+`Python` `Flask` `Socket.IO` `RNNoise` `Whisper` `Ollama` `DSP`
 
 ---
 
-## 🎯 Positions of Responsibility
+## AI-Assisted Drone Surveillance System
 
-- Head of Marketing – Google Developer Student Club  
-- Head of Marketing – AWS Cloud Club  
-- Events Team Member – Computer Society of India  
+A multimodal surveillance analysis platform combining computer vision, VLMs, and conversational retrieval.
+
+### Highlights
+- BLIP-based image captioning and scene understanding
+- Natural language querying over surveillance events
+- Context-aware security alert detection
+- Telemetry ingestion and semantic event indexing
+- SQLite-backed retrieval workflows
+
+### Stack
+`Python` `LangChain` `Streamlit` `SQLite` `BLIP`
 
 ---
 
-## 🌍 Languages
+## BenStocks — AI Financial Trading Simulator
 
-English • Hindi • Malayalam • Arabic  
+Full-stack financial simulation platform with live market streaming, portfolio analytics, and AI-assisted insights.
+
+### Highlights
+- Real-time WebSocket price streaming
+- Technical analysis engine (RSI, MACD, Bollinger Bands)
+- AI portfolio mentor using Llama 3.1
+- Financial news sentiment analysis
+- Deterministic NAV generation engine
+
+### Stack
+`FastAPI` `React` `MongoDB` `WebSockets` `Python`
 
 ---
 
-⭐ Open to backend, AI systems, and product engineering opportunities.
+## Experience
+
+### Generative AI Intern — Zensar Technologies
+
+Built an AI-powered adaptive interview and skill assessment platform using AWS Bedrock, ChromaDB, Streamlit, and Python.
+
+### Worked On
+- RAG pipelines for semantic interview retrieval
+- Adaptive interview generation systems
+- LLM-based evaluation workflows
+- Candidate skill-gap analysis
+- Automated reporting and analytics
+- AI-generated assignment creation
+
+---
+
+## Certifications
+
+- Anthropic — Introduction to Model Context Protocol
+- IBM — AI Workflow: Enterprise Model Deployment
+- Microsoft — Introduction to Microsoft 365 Copilot
+- Skillsoft — Introduction to Generative AI
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=benjaminvinod&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminvinod&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## Connect With Me
+
+- LinkedIn: https://linkedin.com/in/benjaminvinod
+- GitHub: https://github.com/benjaminvinod
+- Email: benjaminvinod99@gmail.com
+
+---
+
+<p align="center">
+  <i>Building AI systems with a focus on real-time intelligence, backend scalability, and practical deployment.</i>
+</p>
