@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Benjamin.png" alt="Banner" />
+</p>
+
 <h1 align="center">Benjamin Mammen Vinod</h1>
 <h3 align="center">AI Systems Engineer • RAG • Agents • Real-Time AI</h3>
 
